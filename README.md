@@ -1,2 +1,2 @@
 # Python
-Random Python projects that weren't worth a separate repository
+Random/small Python projects that weren't worth a separate repository
